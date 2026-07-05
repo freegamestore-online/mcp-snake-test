@@ -1,5 +1,5 @@
 {
-  "name": "@APPNAME/web",
+  "name": "@mcp-snake-test/web",
   "private": true,
   "type": "module",
   "scripts": {
